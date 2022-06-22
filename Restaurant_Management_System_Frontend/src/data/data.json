@@ -1,0 +1,46 @@
+[
+    {
+        "id": "18947325",
+        "name": "Hotel Absolute",
+        "feature_image": "https://b.zmtcdn.com/data/pictures/chains/6/70856/d1fabc4669318bc940749ff735359327.jpg?output-format=webp",
+        "thumbnail_image": "https://b.zmtcdn.com/data/pictures/chains/6/70856/d1fabc4669318bc940749ff735359327.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "menu": [
+            {
+                "id": 2,
+                "name": "Vada Pao",
+                "desc": "Vada Pao is one of the most loves food across India. Vada made of spices and potatoes sandwiched between toasted pao bread, this dish is a filling meal that you can have for a light lunch or brunch or as an evening snacks.",
+                "price": 210
+            },
+            {
+                "id": 1,
+                "name": "Poha French Fries Recipe",
+                "desc": "This crispy and flavourful snack made with the goodness of poha and potatoes is the one to bookmark!",
+                "price": 280
+            },
+            {
+                "id": 4,
+                "name": "Chilli Paneer Dry Recipe",
+                "desc": "Chilli Paneer is a popular restaurant style Indo Chinese starter that is great for a dinner party with friends and family.",
+                "price": 190
+            },
+            {
+                "id": 5,
+                "name": "Coconut Balls Recipe",
+                "desc": "Heavenly white sweet coconut balls made with condensed milk and milk powder. Quick and easy.",
+                "price": 240
+            },
+            {
+                "id": 6,
+                "name": "Kashmiri Paneer",
+                "desc": "Deep fried chunks of paneer simmered in a milk based gravy with loads of khada masalas. Serve with steamed rice. Bursting with delicate flavors, this recipe makes you a meal in minutes!",
+                "price": 370
+            },
+            {
+                "id": 3,
+                "name": "Masala Cheese French Toast",
+                "desc": "Saucy bread and cheese sandwiches dipped in a herby egg white batter and pan fried. A quick and healthy option for your breakfast on-the-go or a mid night snack.",
+                "price": 150
+            }
+        ]
+    }
+]
